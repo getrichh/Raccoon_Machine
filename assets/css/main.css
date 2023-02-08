@@ -63,7 +63,7 @@
 .loader-middle {
 	position: relative;
 	width: 50%;
-	height: 1px;
+	height: 6px;
 	overflow: hidden;
 	margin: auto;
 	transition: all .8s;
@@ -80,7 +80,7 @@
 	width: 0;
 	height: 100%;
 	left: 50%;
-	background: #793be8;
+	background: #fd0000;
 	animation: showLine 700ms ease-in-out 0s forwards;
 	-o-animation: showLine 700ms ease-in-out 0s forwards;
 	-webkit-animation: showLine 700ms ease-in-out 0s forwards;
