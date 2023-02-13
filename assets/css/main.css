@@ -668,7 +668,7 @@ body {
 .title-work h2 {
     position: relative;
     overflow: hidden;
-    color: #fff;
+    color: #ff0000;
     font-family: 'Passion One', cursive;
     font-weight: 700;
     font-size: 60px;
@@ -681,7 +681,7 @@ body {
 }
 .title-work h2 .strokes {
     color: transparent;
-    -webkit-text-stroke: 1px #fff;
+    -webkit-text-stroke: 1px #ff0000;
 }
 
 .head-text {
