@@ -604,19 +604,19 @@ body {
 }
 
 .project-2 {
-    background: url('../img/portfolio/6.jpg') no-repeat;
+    background: url('../img/portfolio/6+.jpg') no-repeat;
 }
 
 .project-3 {
-    background: url('../img/portfolio/3.jpg') no-repeat;
+    background: url('../img/portfolio/3+.jpg') no-repeat;
 }
 
 .project-4 {
-    background: url('../img/portfolio/4.jpg') no-repeat;
+    background: url('../img/portfolio/4+.jpg') no-repeat;
 }
 
 .project-5 {
-    background: url('../img/portfolio/5.jpg') no-repeat;
+    background: url('../img/portfolio/5+.jpg') no-repeat;
 }
 
 .overlay-bg {
@@ -1154,7 +1154,7 @@ p.author-text {
  *************************************/
 
 .project-detail-1 {
-    background: url('../img/portfolio/3.jpg') center center no-repeat;
+    background: url('../img/portfolio/30.jpg') center center no-repeat;
     background-size: cover;
 }
 
