@@ -642,7 +642,7 @@ body {
 html,
 body {
     position: relative;
-    font-family: 'Poppins';
+    /* font-family: 'Poppins'; */
     overflow-x: hidden;
 }
 
