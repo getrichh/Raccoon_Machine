@@ -1,6 +1,7 @@
 html,
 body {
     position: relative;
+    font-family: 'Roboto Mono', monospace;
     /* font-family: 'Poppins'; */
     overflow-x: hidden;
     height: 100%;
