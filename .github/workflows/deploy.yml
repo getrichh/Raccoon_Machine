@@ -19,5 +19,5 @@ jobs:
       # - run: npm ci
       # - run: npm run build
       # Deploy
-      - run:  rsync -e "ssh -p 20022 -i $HOME/.ssh/key -o StrictHostKeyChecking=no" --archive --compress --delete . m71516@hostru04.fornex.org:/home/r116840/public_html/rmte4m.ru
+      - run:  rsync -e "ssh -p 20022 -i $HOME/.ssh/key -o StrictHostKeyChecking=no" --archive --compress --delete . r116840.hostru12.fornex.host:/home/r116840/public_html/rmte4m.ru
       env: AWS_EC2_METADATA_DISABLED=true
